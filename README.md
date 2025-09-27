@@ -12,6 +12,7 @@ L'app può raccogliere i seguenti dati:
 
 I dati raccolti sono utilizzati solo per:
 - Permettere l'accesso all'app.
+- Solo gli amministratori riconosciuti dall'amministratore unico ing.tammaropasquale@gmail.com potranno accedere alla sezione "Amministratore". In caso contrario non potranno accedere.
 
 ## Condivisione dei Dati
 
